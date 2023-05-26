@@ -1,0 +1,19 @@
+Mr. Web Desigen
+Tour Travel Agency Website Design Using HTML CSS JAVASCRIPT
+
+start 27-5-2023
+
+
+
+
+
+#tool yg digunakan
+font awesome cmd link
+https://cdnjs.com/
+
+https://feathericons.com/
+
+
+
+bembuat alias
+alias graph="git log --all --decorate --oneline --graph"
