@@ -2,7 +2,7 @@ Mr. Web Desigen
 Tour Travel Agency Website Design Using HTML CSS JAVASCRIPT
 
 start 27-5-2023
-TELAH SAMPAI MENIT 40.00
+TELAH SAMPAI MENIT 47.25
 
 
 
@@ -11,6 +11,12 @@ font awesome cmd link
 https://cdnjs.com/
 
 https://fonts.google.com/?query=nunito
+
+swiper 
+https://swiperjs.com/
+
+*CATATAN
+- review tidak menampilkan 3 gabar slid show web.
 
 
 *GIT 
