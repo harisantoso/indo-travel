@@ -2,9 +2,7 @@ Mr. Web Desigen
 Tour Travel Agency Website Design Using HTML CSS JAVASCRIPT
 
 start 27-5-2023
-TELAH SAMPAI MENIT 51.25
-
-
+selesai 14-6-2023
 
 #tool yg digunakan
 font awesome cmd link
