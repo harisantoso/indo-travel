@@ -2,7 +2,7 @@ Mr. Web Desigen
 Tour Travel Agency Website Design Using HTML CSS JAVASCRIPT
 
 start 27-5-2023
-TELAH SAMPAI MENIT 47.25
+TELAH SAMPAI MENIT 51.25
 
 
 
@@ -16,7 +16,6 @@ swiper
 https://swiperjs.com/
 
 *CATATAN
-- review tidak menampilkan 3 gabar slid show web.
 
 
 *GIT 
